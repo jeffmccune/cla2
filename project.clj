@@ -1,8 +1,8 @@
 (defproject clojure-getting-started "1.0.0-SNAPSHOT"
-  :description "Demo Clojure web app"
-  :url "http://clojure-getting-started.herokuapp.com"
-  :license {:name "Eclipse Public License v1.0"
-            :url "http://www.eclipse.org/legal/epl-v10.html"}
+  :description "Contributor License Agreement Application"
+  :url "https://github.com/jeffmccune/cla2"
+  :license {:name "Apache License, Version 2.0"
+            :url "https://www.apache.org/licenses/LICENSE-2.0.html"}
   :dependencies [[org.clojure/clojure "1.6.0"]
                  [compojure "1.1.8"]
                  [ring/ring-jetty-adapter "1.2.2"]
